@@ -6,4 +6,5 @@ SELECT
         ELSE "Leaf"
     END AS NodeType
 FROM BST
+
 ORDER BY N ASC;
